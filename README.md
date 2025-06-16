@@ -4,12 +4,20 @@ This project is distributed as an Android APK for easy installation and testing.
 
 Table of Contents
 Overview
+
 Features
+
 Tech Stack
+
 Installation
+
 Usage
+
+
 Future Improvements
+
 Overview
+
 This project implements a mobile-based self-checkout application that directly addresses common issues in traditional checkout systems like long queues, limited self-service kiosks, and complex discount applications.
 By combining advanced barcode scanning, real-time cart management, secure digital wallets, and multiple payment methods — including M-Pesa and Google Pay — this application delivers a smooth, localized, and efficient shopping experience.
 
