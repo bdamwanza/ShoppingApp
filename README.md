@@ -71,11 +71,16 @@ Confirm purchase and receive digital receipt.
 Future Improvements
 
 NFC product scanning.
-Retailer Admin Dashboard.
+
 Multi-language support.
-In-app purchase history.
+
 Biometric authentication for secure checkout.
-Expand payment gateway integrations.
+
+Expand payment gateway integrations and payment options(cryptocurrency).
+
+Leveraging user data(for tailored recommendations)
+
+
 
 
 Note:
