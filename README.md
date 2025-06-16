@@ -39,6 +39,7 @@ Features
 🌍 Localization: Specifically tailored for regions with inconsistent network access and strong mobile money adoption.
 
 Tech Stack
+
 Platform: Android (Java, Android Studio)
 
 Backend: Firebase Firestore (Database, Authentication, Storage)
@@ -49,6 +50,7 @@ Payments: M-Pesa API, Google Pay API
 
 
 Installation
+
 ✅ No coding setup required — simply install the APK and start using the application.
 
 Install from GitHub Release
@@ -67,6 +69,7 @@ Select a payment method (M-Pesa, Google Pay,cusotmer points, vouchers, promocode
 Confirm purchase and receive digital receipt.
 
 Future Improvements
+
 NFC product scanning.
 Retailer Admin Dashboard.
 Multi-language support.
