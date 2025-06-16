@@ -68,5 +68,5 @@ Expand payment gateway integrations.
 
 
 Note:
-This project serves as a proof-of-concept / demo solution for mobile-based self-checkout systems. It is not yet production-deployed for live retail use.
+This project serves as a proof-of-concept / demo solution for mobile-based self-checkout systems. It is not yet production ready for deployment in live retail use.
 
