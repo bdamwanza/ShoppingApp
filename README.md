@@ -1,4 +1,5 @@
 Mobile-Based Self-Checkout System
+
 A fully functional mobile self-checkout Android application designed for retail stores. The system allows customers to scan products, manage their shopping cart, apply discounts, and securely process payments — all directly from their smartphones.
 
 This project is distributed as an Android APK for easy installation and testing.
